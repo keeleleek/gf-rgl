@@ -1,0 +1,4 @@
+abstract AllVotAbs = 
+  Lang,
+  ExtraVotAbs
+  ** {} ;
